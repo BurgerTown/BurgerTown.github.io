@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://burgertown.tk/updatelogs/index.html</loc>
+    
+    <lastmod>2020-12-06T03:24:05.550Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://burgertown.tk/2020/11/07/hackergame2020-jwt-exploit/</loc>
     
     <lastmod>2020-11-07T14:20:45.370Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://burgertown.tk/2018/04/09/KMS/</loc>
     
     <lastmod>2020-11-07T07:42:10.694Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/updatelogs/index.html</loc>
-    
-    <lastmod>2020-08-02T05:44:46.504Z</lastmod>
     
   </url>
   
