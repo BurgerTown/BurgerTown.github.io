@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://burgertown.tk/2018/04/27/Flyme7-Music/</loc>
-    
-    <lastmod>2021-02-03T12:21:48.893Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://burgertown.tk/2018/04/08/Boost/</loc>
     
     <lastmod>2021-02-03T12:21:48.893Z</lastmod>
@@ -30,7 +23,14 @@
   </url>
   
   <url>
-    <loc>https://burgertown.tk/2019/09/02/use-Adguard-Home-to-build-a-DoH-server/</loc>
+    <loc>https://burgertown.tk/2018/04/27/Flyme7-Music/</loc>
+    
+    <lastmod>2021-02-03T12:21:48.893Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/2017/10/18/Vlan/</loc>
     
     <lastmod>2021-02-03T12:21:39.808Z</lastmod>
     
@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://burgertown.tk/2017/10/18/Vlan/</loc>
+    <loc>https://burgertown.tk/2019/09/02/use-Adguard-Home-to-build-a-DoH-server/</loc>
     
     <lastmod>2021-02-03T12:21:39.808Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://burgertown.tk/2017/12/25/Speeder/</loc>
+    <loc>https://burgertown.tk/2018/04/12/IDEA/</loc>
     
     <lastmod>2021-02-03T12:21:39.807Z</lastmod>
     
@@ -72,21 +72,7 @@
   </url>
   
   <url>
-    <loc>https://burgertown.tk/2017/10/10/b-w/</loc>
-    
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/2018/04/12/IDEA/</loc>
-    
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/2019/07/19/achieve-A-on-SSL-Labs-with-Nginx/</loc>
+    <loc>https://burgertown.tk/2017/12/25/Speeder/</loc>
     
     <lastmod>2021-02-03T12:21:39.807Z</lastmod>
     
@@ -100,7 +86,21 @@
   </url>
   
   <url>
+    <loc>https://burgertown.tk/2019/07/19/achieve-A-on-SSL-Labs-with-Nginx/</loc>
+    
+    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://burgertown.tk/2019/07/19/acme-sh-issue-ecc-cert-and-set-up-dual-cert/</loc>
+    
+    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/2017/10/10/b-w/</loc>
     
     <lastmod>2021-02-03T12:21:39.807Z</lastmod>
     
