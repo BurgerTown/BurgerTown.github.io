@@ -1,0 +1,1 @@
+"use strict";!function(){var t=document.querySelector(".sidebar-button button");t&&t.addEventListener("click",function(){tidioChatApi.open()})}();
