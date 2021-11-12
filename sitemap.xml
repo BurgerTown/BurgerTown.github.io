@@ -4,183 +4,306 @@
   <url>
     <loc>https://burgertown.tk/updatelogs/index.html</loc>
     
-    <lastmod>2021-02-05T11:32:33.708Z</lastmod>
+    <lastmod>2021-02-05</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2018/03/24/5Gwifi/</loc>
     
-    <lastmod>2021-02-03T12:22:23.247Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/2018/04/27/Flyme7-Music/</loc>
-    
-    <lastmod>2021-02-03T12:21:48.893Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2018/04/08/Boost/</loc>
     
-    <lastmod>2021-02-03T12:21:48.893Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/2018/04/27/Flyme7-Music/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/10/18/Vlan/</loc>
     
-    <lastmod>2021-02-03T12:21:39.808Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2019/03/19/suppression/</loc>
     
-    <lastmod>2021-02-03T12:21:39.808Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2019/09/02/use-Adguard-Home-to-build-a-DoH-server/</loc>
     
-    <lastmod>2021-02-03T12:21:39.808Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2019/07/20/use-cdn-to-accelerate-blog/</loc>
     
-    <lastmod>2021-02-03T12:21:39.808Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2018/04/12/IDEA/</loc>
     
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/12/25/Speeder/</loc>
     
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2018/03/09/TeamSpeak/</loc>
     
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/07/20/Travel-To-Qinghai/</loc>
     
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2019/07/19/achieve-A-on-SSL-Labs-with-Nginx/</loc>
     
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/2019/07/18/compile-Nginx-on-CentOS-7-to-enable-TLS1-3/</loc>
-    
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/2020/11/07/hackergame2020-jwt-exploit/</loc>
-    
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://burgertown.tk/2017/10/10/b-w/</loc>
-    
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2019/07/19/acme-sh-issue-ecc-cert-and-set-up-dual-cert/</loc>
     
-    <lastmod>2021-02-03T12:21:39.807Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/2019/07/18/compile-Nginx-on-CentOS-7-to-enable-TLS1-3/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/2017/10/10/b-w/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/2020/11/07/hackergame2020-jwt-exploit/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/10/01/VLAN-and-Esurf/</loc>
     
-    <lastmod>2021-02-03T12:21:05.273Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2018/04/09/KMS/</loc>
     
-    <lastmod>2021-02-03T12:20:44.138Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/07/11/Https-Nginx-Hexo-Git/</loc>
     
-    <lastmod>2021-02-03T12:20:43.383Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/08/03/Http-to-Https/</loc>
     
-    <lastmod>2021-02-03T12:20:43.375Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2017/06/20/Hello-World/</loc>
     
-    <lastmod>2021-02-03T12:20:43.343Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/2018/03/09/fail2ban/</loc>
     
-    <lastmod>2021-02-03T12:20:29.721Z</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/about/index.html</loc>
     
-    <lastmod>2019-09-29T18:21:13.468Z</lastmod>
+    <lastmod>2019-09-29</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/categories/index.html</loc>
     
-    <lastmod>2017-07-11T16:53:37.952Z</lastmod>
+    <lastmod>2017-07-11</lastmod>
     
   </url>
   
   <url>
     <loc>https://burgertown.tk/tags/index.html</loc>
     
-    <lastmod>2017-07-11T16:49:31.512Z</lastmod>
+    <lastmod>2017-07-11</lastmod>
     
+  </url>
+  
+
+  <url>
+    <loc>https://burgertown.tk/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Network/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Wifi/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Web/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/VPS/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Nginx/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Music/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Flyme/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Https/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Travel/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/Photo/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/VLAN/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/%E5%AD%97%E5%B9%95%E7%BB%84/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/DNS/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/tags/CDN/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://burgertown.tk/categories/Tech/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://burgertown.tk/categories/Life/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   
 </urlset>
